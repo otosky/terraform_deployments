@@ -1,0 +1,6 @@
+.devbox/
+.idea/
+.vscode/
+
+**/*.tfstate
+**/*.auto.tfvars
