@@ -4,3 +4,5 @@
 
 **/*.tfstate
 **/*.auto.tfvars
+**/.env
+**/.terraform
